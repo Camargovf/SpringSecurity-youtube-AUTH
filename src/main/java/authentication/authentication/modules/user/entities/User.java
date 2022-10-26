@@ -16,6 +16,8 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+//Camargo
+
 @Entity
 @Table(name = "users")
 @Data
@@ -37,3 +39,4 @@ public class User {
   @ManyToMany
   private List<Role> roles;
 }
+
