@@ -7,8 +7,3 @@
 3 - Rodar `mvn spring-boot:run` para subir a aplicação
 
 4 - A aplicação estará disponível na port `8080`
-
-
-## Projeto 
-
-- Spring Security para criar autenticação e autorização na nossa aplicação. 
