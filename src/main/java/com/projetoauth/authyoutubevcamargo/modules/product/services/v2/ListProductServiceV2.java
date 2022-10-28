@@ -19,7 +19,7 @@ public class ListProductServiceV2 implements ListProductService {
     ProductRepository productRepository;
     @Override
     public List<Product> listAll() {
-            log.info("Listando todos os produtos");
+            log.info("list all products");
             return productRepository.findAll();
     }
 }
