@@ -1,6 +1,6 @@
 <h1 align="center"> Projeto Auth API  </h1>
 
-<h3 align="center"> Projeto de autenticação de usuários com intuito de demonstrar o uso de Autenticacao e Autorizacao com Spring Security. </h3>
+<h3 align="center"> Projeto de autenticação com intuito de demonstrar o uso de Autenticacao e Autorizacao com Spring Security. </h3>
 <br>
 
 ***Ambientado com Springboot em IDE Intelijj com banco de dados PostgreSQL - Teste Unitário com Mockito e JUnit 5***
