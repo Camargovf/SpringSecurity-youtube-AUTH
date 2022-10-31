@@ -3,7 +3,7 @@
 <h3 align="center"> Projeto de autenticação com intuito de demonstrar o uso de Autenticacao e Autorizacao com Spring Security. </h3>
 <br>
 
-***Ambientado com Springboot em IDE Intelijj com banco de dados PostgreSQL - Teste Unitário com Mockito e JUnit 5***
+***Ambientado com Springboot em IDE Intelijj com banco de dados PostgreSQL. Teste Unitário com Mockito e JUnit 5***
 
 ### 🛠 Tecnologias
 
@@ -17,13 +17,13 @@
 
 ### Passo a passo
 
-1 - Clonar o repositório `git clone link-do-repositorio`
+1 —  Clonar o repositório `git clone link-do-repositorio`
 
-2 - Rodar `mvn clean install` para instalar as dependências
+2 — Rodar `mvn clean install` para instalar as dependências
 
-3 - Rodar `mvn spring-boot:run` para subir a aplicação
+3 — Rodar `mvn spring-boot:run` para subir a aplicação
 
-4 - A aplicação estará disponível na port `8080`
+4 — A aplicação estará disponível na port `8080`
 
 <br>
 
