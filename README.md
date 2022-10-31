@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img alt="AUTH" title="#AUTH" src="https://miro.medium.com/max/716/1*jMQ9lkY5SBnbcOlJB4aizg.png" />
+</h1>
+
+
 <h1 align="center"> Projeto Auth API  </h1>
 
 <h3 align="center"> Projeto de autenticação com intuito de demonstrar o uso de Autenticacao e Autorizacao com Spring Security. </h3>
